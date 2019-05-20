@@ -17,6 +17,10 @@ julius-4.4.2.1/
 julius-dict/  
 ができる  
   
+置く場所  
+============  
+	~/src/julius/
+  
 ls -lによる表示  
 ===============  
 -rw-r--r--  1 pi pi     221 12月  8 18:20 README.md  
