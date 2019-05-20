@@ -1,0 +1,129 @@
+% GREETING
+おはようございます	o h a y o u g o z a i m a s u
+おはようございます	o h a y o
+おはようございます	o h a y o: g o z a i m a: s u
+おはようございます	o h a y o u
+こんにちは	k o N n i t i w a
+こんにちは	k o N ch i w a
+こんばんは	k o N b a N w a
+いますか？	i m a s u k a
+なにこれ	n a n i k o r e
+おはようございます	o h a y o u g o z a i m a s u
+ごめんください	g o m e N k u d a s a i
+もしもし	m o sh i m o sh i
+もしもーし	m o sh i m o: sh i
+はいそうです	h a i s o u d e s u
+そのとおりです	s o n o t o o r i d e s u
+あなたは誰ですか	a n a t a h a d a r e d e s u k a
+留守でしょうか	r u s u d e sh o u k a
+お留守でしょうか	o r u s u d e sh o u k a
+留守ですか	r u s u d e s u k a
+お留守でですか	o r u s u d e s u k a
+すみません	s u m i m a s e N
+どうも	d o u m o
+いいお天気ですね	i i o t e N k i d e s u n e
+今日はいい天気ですね	ky o u h a i i t e N k i d e s u n e
+遅い	o s o i
+遅い	m a d a k a n a
+遅い	o s o i n a
+遅い	m a t a s e r u n a
+遅い	m a d a k a i n a
+遅い	o q s e: n a
+遅い	h a y a k u sh i r o
+遅い	h a y a k u k o i
+遅い	m a t a s e r u
+遅い	k o n a i n a
+遅い	k o n a i n e
+遅い	k o n a i y o
+遅い	h a y a k u k o i y o
+遅い	m a q t a k u
+遅い	k u d a r a N
+遅い	ts u m a r a n a i
+遅い	d o u d e m o i i
+遅い	i i k a g e N
+遅い	u z a i
+遅い	h a y a k u
+遅い	t o r o i
+
+% SHUUSHOKU
+私は	w a t a sh i h a
+私の名前は	w a t a sh i n o n a m a e h a
+
+
+% OBJECT
+ラズパイ r a z u p a i
+ラーメン	r a: m e N
+岡田	o k a d a
+貴恵	t a k a e
+貴恵	t a k a e ch a N
+貴恵	t a k a e s a N
+翔太	sh o u t a
+翔太	sh o u t a s a  N
+翔太	sh o u t a k u N
+瀬間	s e m a
+遠山	t o o y a m a
+六本木	r o q p o N g i
+清水	sh i m i z u
+小林	k o b a y a sh i
+島田	sh i m a d a
+芳賀	h a g a
+ゆう	y u u
+剛	ts u y o sh i s a N
+剛	ts u y o sh i s a N
+剛	ts u y o sh i k u N
+誰か	d a r e k a
+どなたか	d o n a t a k a
+みつえ	m i ts u e
+みつえ	m i ts u e s a N
+クロネコ	t a q ky u: b i N
+クロネコ	k u r o n e k o
+クロネコ	k u r o n e k o y a m a t o
+クロネコ	t a k u h a i b i N
+郵便屋	y u u b i N ky o k u
+郵便屋	y u u b i N
+佐川	s a g a w a ky u: b i N
+佐川	s a g a w a
+けいじ	k e i j i
+からす	k a r a s u
+からす	k a: k a:
+からす	k a:
+斉藤	s a i t o u
+田中	t a n a k a
+黒田	k u r o d a
+安倍	a b e
+仮面ライダー	k a m e N r a i d a:
+佐藤	s a t o u
+加藤	k a t o u
+立見	t a ts u m i
+渡辺	w a t a n a b e
+萩原	h a g i w a r a
+荻原	o g i w a r a
+高橋	t a k a h a sh i
+白石	sh i r a i sh i
+白井	sh i r a i
+川瀬	k a w a s e
+井上	i n o u e
+小松	k o m a ts u
+岡野	o k a n o
+松本	m a ts u m o t o
+
+% COMMAND
+と申します	t o m o u sh i m a s u
+と言います	t o i i m a s u
+です	d e s u
+ですよ	d e s u y o
+だよ	d a y o
+いますか	i m a s u k a
+いませんか	i m a s e N k a
+いらっしゃいませんか	i r a q sh a i m a s e N k a
+いらっしゃいますか	i r a q sh a i m a s u k a
+いるかね	i r u k a n e
+が来ましたよ	g a k i m a sh i t a y o
+呼んでくれますか	y o N d e k u r e m a s u k a
+いらっしゃいますか	i r a q sh a i m a s u k a
+
+% NS_B
+[s]   silB
+
+% NS_E
+[/s]  silE
